@@ -1,0 +1,10 @@
+Images are lifted from the following sources:
+
+1.) Player tank, enemy tank, terrain(brick,tree,water,metal):
+
+-http://strategywiki.org/wiki/Battle_City/How_to_play
+
+
+2.) Bullet:
+(from Open Office)
+-OOo-dev 3\Basis\share\gallery\bullets
